@@ -1,7 +1,7 @@
 *****************************************************************
 
 21077 - Linguagens de Programação
-Efolio-A
+Efolio-A e Efolio-B
 
 Instruções para compilação: 
  
