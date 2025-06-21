@@ -1,0 +1,6 @@
+joao:3:3:nao:sim:sim:sim:sim:sim:medio
+manuel:4:4:sim:sim:sim:nao:nao:nao:nao:alto
+paulo:3:6:sim:sim:sim:nao:nao:nao:nao:alto
+ana:1:2:sim:sim:sim:nao:nao:nao:nao:baixo
+maria:0:2:sim:sim:sim:nao:nao:nao:nao:alto
+
